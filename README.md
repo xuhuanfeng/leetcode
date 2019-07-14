@@ -38,3 +38,8 @@ My leetcode solution
     - [x] _1078. Occurrences After Bigram
     - [x] _965. Univalued Binary Tree
     - [x] _509. Fibonacci Number
+    - [x] _999. Available Captures for Rook
+    - [x] _883. Projection Area of 3D Shapes
+    - [x] _559. Maximum Depth of N-ary Tree
+    - [x] _811. Subdomain Visit Count
+    
