@@ -42,4 +42,19 @@ My leetcode solution
     - [x] _883. Projection Area of 3D Shapes
     - [x] _559. Maximum Depth of N-ary Tree
     - [x] _811. Subdomain Visit Count
+- 2019年7月15日
+    - [x] _1002. Find Common Characters
+    - [x] _908. Smallest Range I
+    - [x] _876. Middle of the Linked List
+    - [x] _897. Increasing Order Search Tree
+- 2019年7月16日
+    - [x] _557. Reverse Words in a String III
+    - [x] _867. Transpose Matrix
+    - [x] _1047. Remove All Adjacent Duplicates In String
+- 2019年7月20日
+    - [x] _821. Shortest Distance to a Character
+    - [x] _1025. Divisor Game
+    - [x] _344. Reverse String
+    - [x] _872. Leaf-Similar Trees
+    - [x] _806. Number of Lines To Write String
     
