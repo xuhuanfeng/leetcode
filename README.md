@@ -57,4 +57,13 @@ My leetcode solution
     - [x] _344. Reverse String
     - [x] _872. Leaf-Similar Trees
     - [x] _806. Number of Lines To Write String
+    - [x] _985. Sum of Even Numbers After Queries
+- 2019年7月21日
+    - [x] _476. Number Complement
+    - [x] _500. Keyboard Row
+    - [x] _766. Toeplitz Matrix
+    - [x] _1103. Distribute Candies to People
+    - [x] _682. Baseball Game
+    - [x] _463. Island Perimeter
+    - [x] _104. Maximum Depth of Binary Tree
     
