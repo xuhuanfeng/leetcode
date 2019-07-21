@@ -66,4 +66,7 @@ My leetcode solution
     - [x] _682. Baseball Game
     - [x] _463. Island Perimeter
     - [x] _104. Maximum Depth of Binary Tree
-    
+    - [x] _884. Uncommon Words from Two Sentences
+    - [x] _136. Single Number
+    - [x] _669. Trim a Binary Search Tree
+    - [x] _429. N-ary Tree Level Order Traversal
