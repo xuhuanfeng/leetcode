@@ -70,3 +70,9 @@ My leetcode solution
     - [x] _136. Single Number
     - [x] _669. Trim a Binary Search Tree
     - [x] _429. N-ary Tree Level Order Traversal
+- 2019年7月22日
+    - [x] _496. Next Greater Element I
+    - [x] _575. Distribute Candies
+    - [x] _762. Prime Number of Set Bits in Binary Representation
+    - [x] _412. Fizz Buzz
+    - [x] _868. Binary Gap
