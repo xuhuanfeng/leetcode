@@ -76,3 +76,9 @@ My leetcode solution
     - [x] _762. Prime Number of Set Bits in Binary Representation
     - [x] _412. Fizz Buzz
     - [x] _868. Binary Gap
+- 2019年7月23日
+    - [x] _637. Average of Levels in Binary Tree
+    - [x] _566. Reshape the Matrix
+    - [x] _1009. Complement of Base 10 Integer
+    - [x] _226. Invert Binary Tree
+    - [x] _1089. Duplicate Zeros
