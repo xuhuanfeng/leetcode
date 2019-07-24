@@ -82,3 +82,8 @@ My leetcode solution
     - [x] _1009. Complement of Base 10 Integer
     - [x] _226. Invert Binary Tree
     - [x] _1089. Duplicate Zeros
+- 2019年7月24日
+    - [x] _693. Binary Number with Alternating Bits
+    - [x] _824. Goat Latin
+    - [x] _784. Letter Case Permutation
+    
