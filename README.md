@@ -86,4 +86,11 @@ My leetcode solution
     - [x] _693. Binary Number with Alternating Bits
     - [x] _824. Goat Latin
     - [x] _784. Letter Case Permutation
-    
+- 2019年7月26日
+    - [x] _976. Largest Perimeter Triangle
+- 2019年7月27日
+    - [x] _706. Design HashMap
+    - [x] _521. Longest Uncommon Subsequence I
+    - [x] _937. Reorder Log Files
+    - [x] _812. Largest Triangle Area
+    - [x] _888. Fair Candy Swap
