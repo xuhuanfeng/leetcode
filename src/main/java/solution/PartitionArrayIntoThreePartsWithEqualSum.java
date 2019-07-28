@@ -33,6 +33,30 @@ public class PartitionArrayIntoThreePartsWithEqualSum {
         return false;
     }
 
+    public boolean another(int[] A) {
+        int sum = 0;
+        for (int n : A) {
+            sum += n;
+        }
+        if (sum % 3 != 0) {
+            return false;
+        }
+        sum /= 3;
+
+        int curSum = 0;
+        int numOfSegments = 0;
+        for (int i = 0; i < A.length; i++) {
+            curSum += A[i];
+            //check if we can form a segment
+            if (curSum == sum && numOfSegments <= 1) {
+                numOfSegments++;
+                curSum = 0;
+            }
+        }
+        //if we have 2 segments formed greedily and sum of leftover is also 1/3 of overall sum
+        return (numOfSegments == 2 && curSum == sum);
+    }
+
     @Test
     public void test01() {
         assertTrue(canThreePartsEqualSum(new int[]{0, 2, 1, -6, 6, -7, 9, 1, 2, 0, 1}));

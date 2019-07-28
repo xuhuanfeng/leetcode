@@ -100,3 +100,11 @@ My leetcode solution
     - [x] _1013. Partition Array Into Three Parts With Equal Sum
     - [x] _1138. Alphabet Board Path
     - [x] _1137. N-th Tribonacci Number
+    - [x] _953. Verifying an Alien Dictionary
+    - [x] _206. Reverse Linked List
+    - [x] _349. Intersection of Two Arrays
+    - [x] _292. Nim Game
+    - [x] _896. Monotonic Array
+    - [x] _485. Max Consecutive Ones
+    - [x] _788. Rotated Digits
+    
