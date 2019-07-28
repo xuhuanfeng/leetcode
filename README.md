@@ -94,3 +94,9 @@ My leetcode solution
     - [x] _937. Reorder Log Files
     - [x] _812. Largest Triangle Area
     - [x] _888. Fair Candy Swap
+- 2019年7月28日
+    - [x] _892. Surface Area of 3D Shapes
+    - [x] _917. Reverse Only Letters
+    - [x] _1013. Partition Array Into Three Parts With Equal Sum
+    - [x] _1138. Alphabet Board Path
+    - [x] _1137. N-th Tribonacci Number
