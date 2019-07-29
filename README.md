@@ -107,4 +107,10 @@ My leetcode solution
     - [x] _896. Monotonic Array
     - [x] _485. Max Consecutive Ones
     - [x] _788. Rotated Digits
+- 2019年7月29日
+    - [x] _748. Shortest Completing Word
+    - [x] _705. Design HashSet
+    - [x] _237. Delete Node in a Linked List
+    - [x] _690. Employee Importance
+
     
