@@ -107,4 +107,8 @@ My leetcode solution
     - [x] _896. Monotonic Array
     - [x] _485. Max Consecutive Ones
     - [x] _788. Rotated Digits
-    
+- 2019年7月30日
+    - [x] _258. Add Digits
+    - [x] _1071. Greatest Common Divisor of Strings
+    - [x] _696. Count Binary Substrings
+    - [x] _1029. Two City Scheduling
