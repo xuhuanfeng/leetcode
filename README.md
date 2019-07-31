@@ -112,3 +112,9 @@ My leetcode solution
     - [x] _1071. Greatest Common Divisor of Strings
     - [x] _696. Count Binary Substrings
     - [x] _1029. Two City Scheduling
+- 2019年7月31日
+    - [x] _448. Find All Numbers Disappeared in an Array
+    - [x] _169. Majority Element
+    - [x] _389. Find the Difference
+    - [x] _242. Valid Anagram
+    
