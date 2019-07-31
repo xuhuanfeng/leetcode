@@ -107,6 +107,11 @@ My leetcode solution
     - [x] _896. Monotonic Array
     - [x] _485. Max Consecutive Ones
     - [x] _788. Rotated Digits
+- 2019年7月29日
+    - [x] _748. Shortest Completing Word
+    - [x] _705. Design HashSet
+    - [x] _237. Delete Node in a Linked List
+    - [x] _690. Employee Importance
 - 2019年7月30日
     - [x] _258. Add Digits
     - [x] _1071. Greatest Common Divisor of Strings
@@ -117,4 +122,3 @@ My leetcode solution
     - [x] _169. Majority Element
     - [x] _389. Find the Difference
     - [x] _242. Valid Anagram
-    
