@@ -130,4 +130,20 @@ My leetcode solution
     - [x] _122. Best Time to Buy and Sell Stock II
     - [x] _993. Cousins in Binary Tree
     - [x] _606. Construct String from Binary Tree
-    
+    - [x] _733. Flood Fill
+    - [x] _697. Degree of an Array
+- 2019年8月4日
+    - [x] _530. Minimum Absolute Difference in BST
+    - [x] _167. Two Sum II - Input array is sorted
+    - [x] _371. Sum of Two Integers
+    - [x] _1146. Snapshot Array
+    - [x] _1144. Decrease Elements To Make Array Zigzag
+    - [x] _538. Convert BST to Greater Tree
+    - [x] _783. Minimum Distance Between BST Nodes
+    - [x] _860. Lemonade Change
+    - [x] _100. Same Tree
+    - [x] _387. First Unique Character in a String
+    - [x] _383. Ransom Note
+    - [x] _447. Number of Boomerangs
+    - [x] _1005. Maximize Sum Of Array After K Negations
+    - [x] _404. Sum of Left Leaves
