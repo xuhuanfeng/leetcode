@@ -147,3 +147,9 @@ My leetcode solution
     - [x] _447. Number of Boomerangs
     - [x] _1005. Maximize Sum Of Array After K Negations
     - [x] _404. Sum of Left Leaves
+    - [x] _453. Minimum Moves to Equal Array Elements
+- 2019年8月5日
+    - [x] _997. Find the Town Judge
+    - [x] _717. 1-bit and 2-bit Characters
+    - [x] _661. Image Smoother
+    - [x] _796. Rotate String
