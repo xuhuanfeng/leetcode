@@ -153,3 +153,12 @@ My leetcode solution
     - [x] _717. 1-bit and 2-bit Characters
     - [x] _661. Image Smoother
     - [x] _796. Rotate String
+- 2019年8月6日
+    - [x] _268. Missing Number
+    - [x] _598. Range Addition II
+    - [x] _492. Construct the Rectangle
+    - [x] _455. Assign Cookies
+    - [x] _704. Binary Search
+    - [x] _350. Intersection of Two Arrays II
+    - [x] _409. Longest Palindrome
+    
