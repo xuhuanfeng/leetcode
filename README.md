@@ -161,4 +161,8 @@ My leetcode solution
     - [x] _704. Binary Search
     - [x] _350. Intersection of Two Arrays II
     - [x] _409. Longest Palindrome
+- 2019年8月7日
+    - [x] _599. Minimum Index Sum of Two Lists
+    - [x] _21. Merge Two Sorted Lists
+    - [x] _830. Positions of Large Groups
     
