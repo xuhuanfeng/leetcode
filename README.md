@@ -165,4 +165,24 @@ My leetcode solution
     - [x] _599. Minimum Index Sum of Two Lists
     - [x] _21. Merge Two Sorted Lists
     - [x] _830. Positions of Large Groups
+- 2019年8月10日
+    - [x] _746. Min Cost Climbing Stairs
+    - [x] _121. Best Time to Buy and Sell Stock
+    - [x] _107. Binary Tree Level Order Traversal II
+    - [x] _392. Is Subsequence
+    - [x] _118. Pascal's Triangle
+    - [x] _543. Diameter of Binary Tree
+    - [x] _563. Binary Tree Tilt
+    - [x] _836. Rectangle Overlap
+    - [x] _257. Binary Tree Paths
+- 2019年8月11日
+    - [x] _844. Backspace String Compare
+    - [x] _994. Rotting Oranges
+- 2019年8月12日
+    - [x] _1018. Binary Prefix Divisible By 5
+    - [x] _628. Maximum Product of Three Numbers
+    - [x] _202. Happy Number
+    - [x] _541. Reverse String II
+    - [x] _1010. Pairs of Songs With Total Durations Divisible by 60
+    
     
