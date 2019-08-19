@@ -184,5 +184,13 @@ My leetcode solution
     - [x] _202. Happy Number
     - [x] _541. Reverse String II
     - [x] _1010. Pairs of Songs With Total Durations Divisible by 60
+- 2019年8月13日
+    - [x] _235. Lowest Common Ancestor of a Binary Search Tree
+    - [x] _551. Student Attendance Record I
+- 2019年8月19日
+    - [x] _27. Remove Element
+    - [x] _504. Base 7
+    - [x] _70. Climbing Stairs
+    - [x] _119. Pascal's Triangle II
     
     
