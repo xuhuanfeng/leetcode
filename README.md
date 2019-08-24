@@ -192,5 +192,14 @@ My leetcode solution
     - [x] _504. Base 7
     - [x] _70. Climbing Stairs
     - [x] _119. Pascal's Triangle II
+- 2019年8月24日
+    - [x] _674. Longest Continuous Increasing Subsequence
+    - [x] _1128. Number of Equivalent Domino Pairs
+    - [x] _9. Palindrome Number
+    - [x] _232. Implement Queue using Stacks
+    - [x] _925. Long Pressed Name
+    - [x] _191. Number of 1 Bits
+    - [x] _744. Find Smallest Letter Greater Than Target
+    - [x] _415. Add Strings
     
     
