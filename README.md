@@ -201,5 +201,13 @@ My leetcode solution
     - [x] _191. Number of 1 Bits
     - [x] _744. Find Smallest Letter Greater Than Target
     - [x] _415. Add Strings
+- 2019年8月25日
+    - [x] _1169. Invalid Transactions
+    - [x] _1170. Compare Strings by Frequency of the Smallest Character
+- 2019年8月26日
+    - [x] _989. Add to Array-Form of Integer
+    - [x] _101. Symmetric Tree
+    - [x] _53. Maximum Subarray
+    - [x] _594. Longest Harmonious Subsequence
     
     
