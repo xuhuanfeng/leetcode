@@ -213,5 +213,10 @@ My leetcode solution
     - [x] _83. Remove Duplicates from Sorted List
     - [x] _671. Second Minimum Node In a Binary Tree
     - [x] _437. Path Sum III
+- s2019年9月2日
+    - [x] _405. Convert a Number to Hexadecimal
+    - [x] _231. Power of Two
+    - [x] _405. Convert a Number to Hexadecimal
+    - [x] _572. Subtree of Another Tree
     
     
