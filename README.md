@@ -222,5 +222,15 @@ My leetcode solution
     - [x] _345. Reverse Vowels of a String
     - [x] _326. Power of Three
     - [x] _724. Find Pivot Index
+- 2019年9月7日
+    - [x] _26. Remove Duplicates from Sorted Array
+    - [x] _110. Balanced Binary Tree
+    - [x] _66. Plus One
+    - [x] _38. Count and Say
+    - [x] _849. Maximize Distance to Closest Person
+    - [x] _482. License Key Formatting
+    - [x] _35. Search Insert Position
+    - [x] _198. House Robber
+    
     
     
