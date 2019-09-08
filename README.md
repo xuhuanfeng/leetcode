@@ -231,6 +231,23 @@ My leetcode solution
     - [x] _482. License Key Formatting
     - [x] _35. Search Insert Position
     - [x] _198. House Robber
+    - [x] _645. Set Mismatch
+    - [x] _263. Ugly Number
+    - [x] _747. Largest Number At Least Twice of Others
+    - [x] _342. Power of Four
+- 2019年9月8日
+    - [x] _225. Implement Stack using Queues
+    - [x] _67. Add Binary
+    - [x] _459. Repeated Substring Pattern
+    - [x] _367. Valid Perfect Square
+    - [x] _374. Guess Number Higher or Lower
+    - [x] _643. Maximum Average Subarray I
+    - [x] _501. Find Mode in Binary Search Tree
+    - [x] _970. Powerful Integers
+    - [x] _303. Range Sum Query - Immutable
+    - [x] _112. Path Sum
+    - [x] _5181. Distance Between Bus Stops
+    - [x] _5183. Day of the Week
     
     
     
