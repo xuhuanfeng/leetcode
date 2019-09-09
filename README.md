@@ -248,6 +248,12 @@ My leetcode solution
     - [x] _112. Path Sum
     - [x] _5181. Distance Between Bus Stops
     - [x] _5183. Day of the Week
+- 2019年9月9日
+    - [x] _155. Min Stack
+    - [x] _441. Arranging Coins
+    - [x] _443. String Compression
+    - [x] _205. Isomorphic Strings
+    
     
     
     
