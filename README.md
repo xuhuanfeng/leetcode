@@ -253,6 +253,11 @@ My leetcode solution
     - [x] _441. Arranging Coins
     - [x] _443. String Compression
     - [x] _205. Isomorphic Strings
+- 2019年9月10日
+    - [x] _1037. Valid Boomerang
+    - [x] _172. Factorial Trailing Zeroes
+    - [x] _1033. Moving Stones Until Consecutive
+    
     
     
     
