@@ -257,8 +257,13 @@ My leetcode solution
     - [x] _1037. Valid Boomerang
     - [x] _172. Factorial Trailing Zeroes
     - [x] _1033. Moving Stones Until Consecutive
-    
-    
-    
+- 2019年9月11日
+    - [x] _434. Number of Segments in a String
+    - [x] _20. Valid Parentheses
+    - [x] _234. Palindrome Linked List
+    - [x] _88. Merge Sorted Array
+    - [x] _203. Remove Linked List Elements
+    - [x] _219. Contains Duplicate II
+    - [x] _111. Minimum Depth of Binary Tree
     
     
