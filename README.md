@@ -265,5 +265,15 @@ My leetcode solution
     - [x] _203. Remove Linked List Elements
     - [x] _219. Contains Duplicate II
     - [x] _111. Minimum Depth of Binary Tree
+- 2019年9月12日
+    - [x] _290. Word Pattern
+    - [x] _941. Valid Mountain Array
+    - [x] _507. Perfect Number
+- 2019年9月13日
+    - [x] _949. Largest Time for Given Digits
+    - [x] _14. Longest Common Prefix
+    - [x] _687. Longest Univalue Path
+    - [x] _680. Valid Palindrome II
+    - [x] _914. X of a Kind in a Deck of Cards
     
     
