@@ -275,5 +275,17 @@ My leetcode solution
     - [x] _687. Longest Univalue Path
     - [x] _680. Valid Palindrome II
     - [x] _914. X of a Kind in a Deck of Cards
+- 2019年9月15日
+    - [x] _874. Walking Robot Simulation
+    - [x] _28. Implement strStr()
+    - [x] _190. Reverse Bits
+    - [x] _5189. Maximum Number of Balloons
+    - [x] _5190. Reverse Substrings Between Each Pair of Parentheses
+    - [x] _5191. K-Concatenation Maximum Sum
+    - [x] _633. Sum of Square Numbers
+    - [x] _125. Valid Palindrome
+    - [x] _58. Length of Last Word
+    
+    
     
     
