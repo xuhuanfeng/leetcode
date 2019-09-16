@@ -285,6 +285,12 @@ My leetcode solution
     - [x] _633. Sum of Square Numbers
     - [x] _125. Valid Palindrome
     - [x] _58. Length of Last Word
+- 2019年9月16日
+    - [x] _69. Sqrt(x)
+    - [x] _189. Rotate Array
+    - [x] _605. Can Place Flowers
+    - [x] _278. First Bad Version
+    
     
     
     
