@@ -290,6 +290,11 @@ My leetcode solution
     - [x] _189. Rotate Array
     - [x] _605. Can Place Flowers
     - [x] _278. First Bad Version
+- 2019年9月17日
+    - [x] _532. K-diff Pairs in an Array
+    - [x] _204. Count Primes
+    - [x] _168. Excel Sheet Column Title
+    - [x] _414. Third Maximum Number
     
     
     
