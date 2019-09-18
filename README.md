@@ -295,6 +295,9 @@ My leetcode solution
     - [x] _204. Count Primes
     - [x] _168. Excel Sheet Column Title
     - [x] _414. Third Maximum Number
+- 2019年9月18日
+    - [x] _859. Buddy Strings
+    - [x] _7. Reverse Integer
     
     
     
