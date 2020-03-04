@@ -301,4 +301,6 @@ My leetcode solution
 - 2020年3月3日
     - [x] _1302. Deepest Leaves Sum
     - [x] _807. Max Increase to Keep City Skyline
-
+- 2020年3月4日
+    - [x] _1038. Binary Search Tree to Greater Sum Tree
+    - [x] _701. Insert into a Binary Search Tree

@@ -19,25 +19,19 @@ public class BinarySearchTreeToGreaterSumTree {
         }
     }
 
-    public int doSum(TreeNode root) {
+    private int sum = 0;
+
+    public void doSum(TreeNode root) {
         if (root == null) {
-            return 0;
+            return;
         }
-        int right = doSum(root.right);
-        root.val += right;
-        if (root.left != null) {
-            root.left.val += root.val;
-            doSum(root.left);
-            return root.left.val;
-        } else {
-            return root.val;
-        }
+        doSum(root.right);
+        sum = root.val += sum;
+        doSum(root.left);
     }
 
     public TreeNode bstToGst(TreeNode root) {
-        int rightVAl = doSum(root.right);
-        root.val += rightVAl;
-        doSum(root.left);
+        doSum(root);
         return root;
     }
 
@@ -60,7 +54,7 @@ public class BinarySearchTreeToGreaterSumTree {
         if (root == null) {
             return;
         }
-        System.out.printf("%d ", root.val);
+        System.out.print(" " + root.val);
         printTree(root.left);
         printTree(root.right);
 
